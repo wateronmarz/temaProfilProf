@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Profil Profesor</string>
+    <string name="text_nume_prof">Nume profesor</string>
+    <string name="ratingBar">Rating profesor</string>
+    <string name="Meniu">Discipline</string>
+    <string-array name="discipline">
+        <item>  </item>
+        <item>  </item>
+    </string-array>
+</resources>
